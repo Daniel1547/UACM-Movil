@@ -1,0 +1,34 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "BucjsCcIrMt8v+b8tR2AgW8ERQoq74F8NGgpc2Lx9BmOH+pQYPE4K/8fWnSLR8k+RR/Zw2riur2GFlWVcnynkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\source\\repos\\UACM\\UACM\\UACM\\UACM.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "BucjsCcIrMt8v+b8tR2AgW8ERQoq74F8NGgpc2Lx9BmOH+pQYPE4K/8fWnSLR8k+RR/Zw2riur2GFlWVcnynkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\source\\repos\\UACM\\UACM\\UACM\\UACM.csproj",
+=======
+  "dgSpecHash": "zrrS5Q5whl/jjNqRKttMm+QjN0d8v89Q8goQ8T5KyWIJQg2IvY2YXjYwafZnpG+OUCCz5oIvpcVnAC3R8+zI9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\source\\repos\\UACM-main\\UACM\\UACM\\UACM.csproj",
+>>>>>>> 3ccac9d (Se agrego menu desplegable)
+>>>>>>> 6522435 (tercer commit)
+  "expectedPackageFiles": [
+    "C:\\Users\\Dani\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+<<<<<<< HEAD
+    "C:\\Users\\Dani\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+=======
+<<<<<<< HEAD
+    "C:\\Users\\Dani\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+=======
+    "C:\\Users\\Dani\\.nuget\\packages\\xamarin.forms\\5.0.0.2612\\xamarin.forms.5.0.0.2612.nupkg.sha512"
+>>>>>>> 3ccac9d (Se agrego menu desplegable)
+>>>>>>> 6522435 (tercer commit)
+  ],
+  "logs": []
+}

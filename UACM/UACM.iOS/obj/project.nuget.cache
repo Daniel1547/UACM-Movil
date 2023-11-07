@@ -1,0 +1,47 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "wNIg334rCJaxNlnnTUSCGlbBfvKTnzBgPINTtM3h0sGuDvvdzpzc7lwWWGpTfCsoMEzsFvCKjpw++z+doqsdmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\source\\repos\\UACM\\UACM\\UACM.iOS\\UACM.iOS.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "wNIg334rCJaxNlnnTUSCGlbBfvKTnzBgPINTtM3h0sGuDvvdzpzc7lwWWGpTfCsoMEzsFvCKjpw++z+doqsdmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\source\\repos\\UACM\\UACM\\UACM.iOS\\UACM.iOS.csproj",
+=======
+  "dgSpecHash": "DsstHJ2Jh2msP78ulHovsPtRvG1HF8xiXKKMVOQjBjQZuGyMZOeH947Rshc+cljewHdsJOaIFGHz80qxGBLrgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dani\\source\\repos\\UACM-main\\UACM\\UACM.iOS\\UACM.iOS.csproj",
+>>>>>>> 3ccac9d (Se agrego menu desplegable)
+>>>>>>> 6522435 (tercer commit)
+  "expectedPackageFiles": [
+    "C:\\Users\\Dani\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Dani\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+<<<<<<< HEAD
+  "logs": []
+=======
+<<<<<<< HEAD
+  "logs": []
+=======
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Forms de 5.0.0.2612 a 5.0.0.2196. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n UACM.iOS -> UACM -> Xamarin.Forms (>= 5.0.0.2612) \r\n UACM.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+>>>>>>> 3ccac9d (Se agrego menu desplegable)
+>>>>>>> 6522435 (tercer commit)
+}
